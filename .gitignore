@@ -1,0 +1,2 @@
+server/.env
+server/database/db.js
