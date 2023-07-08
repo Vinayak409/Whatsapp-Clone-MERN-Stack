@@ -72,7 +72,7 @@ const Conversation = ({ user }) => {
           }
         </Container>
         <Box>
-          <Text>{message?.text?.includes('master--soft-croquembouche-eef5c8.netlify.app') ? 'media' : message.text}</Text>
+          <Text>{message?.text?.includes('localhost') ? 'media' : message.text}</Text>
         </Box>
       </Box>
     </Component>
