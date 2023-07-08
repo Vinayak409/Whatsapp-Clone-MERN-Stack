@@ -2,9 +2,6 @@
 <b>WhatsApp clone build using MERN stack</b>
 ---
 
-<p align='center'>
-This is the frontend + backend of WhatsApp clone with MERN stack and hosted with <a href='https://www.render.com/' target='_blank'>Render</a>
-</p>
 
 
 #### 🧾 Description
